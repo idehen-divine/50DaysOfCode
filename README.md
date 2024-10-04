@@ -35,7 +35,8 @@ Each folder (e.g., `day01`, `day02`) will contain the code I write each day.
 
 ## Connect with Me
 Feel free to connect and follow my journey:
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/idehen-divine/)
+- [Twitter](https://x.com/idehen_divine)
+-   [GitHub](https://github.com/idehen-divine)
 
 Thanks for checking out my learning journey! 😊
