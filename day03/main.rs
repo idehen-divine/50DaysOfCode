@@ -18,7 +18,7 @@ fn main() {
     println!("Grade: {}", grade);
 
     // Strings
-    let name = String::from("Mart");
+    let name = String::from("Lonely");
     println!("Name: {}", name);
 
     // Tuples
